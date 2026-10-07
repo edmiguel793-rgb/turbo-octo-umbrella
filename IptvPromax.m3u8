@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sporttv1-pt.png" group-title="Desporto",SPORT TV 1
+https://aaa8f033a92bf10d854ce205403fabe1.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv1.txt
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="Desporto",SPORT TV 2
+https://aaa8f033a92bf10d854ce205403fabe1.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv2.txt
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png" group-title="Desporto",SPORT TV 3
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv3.txt
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="Desporto",SPORT TV 4
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv4.txt
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="Desporto",SPORT TV 5
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv5.txt
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png" group-title="Desporto",SPORT TV 6
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv6.txt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Sport_TV7_%282024%29.png" group-title="Desporto",SPORT TV 7
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv7.txt
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png" group-title="Desporto",DAZN 1
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven1.txt
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/eleven-sport2-pt.png" group-title="Desporto",DAZN 2
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven2.txt
+#EXTINF:-1 tvg-logo="https://jungle-team.com/nuevos-picon-dazn-3-y-dazn-4-actualizacion-font/dazn3black/" group-title="Desporto",DAZN 3
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven3.txt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="Desporto",DAZN 4
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven4.txt
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xi1dh83i1tl018kl25a3phsr2_image-header_pRow_1730196870000/fill/center/top/none/80/896/516/webp/image?brand=dazn" group-title="Desporto",DAZN 5
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven5.txt
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/agora/btv/generic-content/generic-content-mobile.jpg?h=350&w=390&v=638356407330000000&hash=E1217E22077DB7A0ABAFFA1ABC65CEE8" group-title="Desporto",BENFICA TV
+https://0f9a31ec608836e40fc44bb0c87d87f8.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_benficatv.txt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Canal_11_FPF.svg" group-title="Desporto",CANAL 11
+https://aaa8f033a92bf10d854ce205403fabe1.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_canal11.txt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sonychannels.png" group-title="Filmes",Sony Channels
+https://765d5fb115a9f6a3e0b23b80a5b2e4c4.cazetv.shop/embedtv/51924ea221e890efae5a49f7f6d47ebc/file.txt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboplus.png" group-title="Filmes",HBO Plus
+https://765d5fb115a9f6a3e0b23b80a5b2e4c4.cazetv.shop/embedtv/c2491a292e56f14bd6c3a07066e4e4ad/file.txt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/telecine.png" group-title="Filmes",telecine premium
+https://765d5fb115a9f6a3e0b23b80a5b2e4c4.cazetv.shop/embedtv/fe6f3c6acc17549ad50e65f95aae7ea7/file.txt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/disneyplus.png" group-title="Filmes",Disney Plus
+https://765d5fb115a9f6a3e0b23b80a5b2e4c4.cazetv.shop/embedtv/5607b0843d98210810af54687ffcb638/file.txt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnnpt.png" group-title="Notícias Portugal",CNN Portugal
+https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-480p/chunks.m3u8?nimblesessionid=2953630541&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDI2IDE6MTY6MzEgUE0maGFzaF92YWx1ZT04ODFCdHV1c3Rnc3lBQ2tqRU8zcTVRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YWU0Mjk1ODktMzU3Mi00NGViLThhYzAtMzE4ZjA4ODk2ZTFj
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtp1.png" group-title="Portugal",RtpAndroidIOS
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?tk=1783998000_38efd067c7224bc742a82ce83457487220dfd046
+#EXTINF:-1 tvg-logo="" group-title="série",bob esponja série 1
+http://192.168.1.65:30001/file/ixP06WBG/video.mp4
+#EXTINF:-1 tvg-logo="" group-title="filme cine",Super Mário Galaxy
+https://edge1-vienna-sprintcdn.owphbf24.com/hls2/03/11311/g8k475uy3kkp_x/master.m3u8?t=0xh8j2hfrBkKeONg7wDK--s0rLmYAHNzpqThMPGiq3c&s=1784904462&e=10800&f=56557944&srv=1065&asn=&sp=5500&p=0
+#EXTINF:-1 tvg-logo="" group-title="filme cine",Toy Story 5
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/09/11620/3pbttlnahzis_x/master.m3u8?t=TFPgAiL7P-wyx3APbL1kYGXRSfiZxjYWnpHesvdxpIM&s=1784905652&e=10800&f=58101050&srv=1060&asn=&sp=5500&p=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/premiere.png" group-title="Futebol Brasil",Premiere Brasil
+https://65f2a94c8c2d56d5b43a1a3d9d811102.cazetv.shop/embedtv/fd83ba3eb6e70c9602fd6b584ad64f2a/file.txt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/premiere.png" group-title="Futebol Brasil",Premiere 2 Brasil
+https://765d5fb115a9f6a3e0b23b80a5b2e4c4.cazetv.shop/embedtv/1e2d49569efbeef50bddc3796d63b7e6/file.txt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/premiere.png" group-title="Futebol Brasil",Premiere 3 Brasil
+https://765d5fb115a9f6a3e0b23b80a5b2e4c4.cazetv.shop/embedtv/3ccc9bc90194f9ab137d8af820ea6c06/file.txt
+#EXTINF:-1 tvg-logo="" group-title="filme cine",Homem Aranha Hoje em dia
+http://192.168.1.65:8766/hls/a05f4d6d6fd32a7f015abac1ff636654.m3u8
